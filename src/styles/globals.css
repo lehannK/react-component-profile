@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #1c85c2;
+  justify-self: center;
+}
+
+#root {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  min-height: 100vh;
+}
